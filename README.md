@@ -44,6 +44,7 @@ These are the primary tools and technologies I use to turn data into action.
 
 These pinned repositories demonstrate my ability to tackle diverse data problems, from Exploratory Data Analysis (EDA) to model training and evaluation.
 
+* **Movie Recommender System**  <!--: (e.g., *End-to-End Customer Churn Prediction* - Showcases modeling, feature engineering, and evaluation.) -->
 * **Credit Card Fraud Detection**  <!--: (e.g., *End-to-End Customer Churn Prediction* - Showcases modeling, feature engineering, and evaluation.) -->
 * **Telecome Churn Prediction**  <!--: (e.g., *Interactive Sales Dashboard using Power BI/Tableau* - Highlights data visualization and communication.)-->
 * **Amazon Sales Overview using Power BI**  <!--: (e.g., *Web Scraping and Analysis of [Domain] Data* - Demonstrates data ingestion and cleaning skills.)-->
